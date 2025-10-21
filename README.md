@@ -1,50 +1,65 @@
 # 👋 Hi there, I'm Raushan Singh
 
-🎯 **Aspiring Java Full Stack Developer | Problem Solver | Tech Enthusiast**
+🎯 **Java Full Stack Developer | DSA Enthusiast | Lifelong Learner**
 
 ---
 
 ## 🚀 About Me
-- 💻 I’m passionate about **Java, Web Technologies, and Backend Development**  
-- 🌱 Currently learning **Spring Boot**, **React**, and **Cloud Technologies (AWS)**  
-- 👯 Looking to collaborate on **Open Source Java Projects**  
-- 💬 Ask me about **Core Java, OOPs, DSA, and Web Development**  
-- ⚡ Fun fact: I love turning ideas into real working projects
+- 💻 Passionate about **building scalable applications** using Java and modern web technologies  
+- 🌱 Currently exploring **Spring Boot**, **React**, and **Cloud (AWS)**  
+- 💬 Ask me about **Java, DSA, Web Development, and SQL**  
+- ⚡ I enjoy solving coding challenges and turning ideas into real-world projects  
 
 ---
 
 ## 🧠 Tech Stack
-**Languages:**  
-☕ Java | 🐍 Python | 💻 C++ | 🌐 JavaScript  
 
-**Web Technologies:**  
+**Languages:**  
+☕ Java | 💻 C++ | 🌐 JavaScript | 🐍 Python  
+
+**Web Development:**  
 HTML | CSS | Bootstrap | React | Node.js  
 
-**Frameworks & Tools:**  
-Spring Boot | JDBC | Servlets | JSP | Git | GitHub  
+**Backend & Frameworks:**  
+Spring Boot | Servlets | JSP | JDBC  
 
 **Database:**  
-MySQL | PostgreSQL  
+MySQL | PostgreSQL | Oracle SQL  
+
+**Tools & Others:**  
+Git | GitHub | VS Code | IntelliJ IDEA | Eclipse  
 
 ---
 
-## 📚 Currently Learning
-- 🔹 Spring Framework (Core, Boot, JPA, REST APIs)  
-- 🔹 React (Hooks, Forms, Routing, State Management)  
-- 🔹 DSA for placement interviews  
+## 🏗️ Featured Projects
+
+| Project Name | Description |
+|---------------|-------------|
+| **[FULL-STACK-DEVELOPMENT](https://github.com/raushansingh7033/FULL-STACK-DEVELOPMENT)** | Hands-on full-stack web apps using Java, Spring Boot, and React |
+| **[JAVA-WITH-DSA](https://github.com/raushansingh7033/JAVA-WITH-DSA)** | DSA problems implemented in Java |
+| **[Spring-Boot](https://github.com/raushansingh7033/spring-boot)** | REST APIs, CRUD operations, and microservice concepts |
+| **[50-Leetcode-SQL](https://github.com/raushansingh7033/50-Leetcode-SQL)** | SQL query practice for interview preparation |
+| **[MERN_WITH_AI](https://github.com/raushansingh7033/MERN_WITH_AI)** | AI-powered MERN stack project |
+| **[Java_GUI](https://github.com/raushansingh7033/Java_GUI)** | Desktop-based Java GUI apps |
+| **[Grocery-Store](https://github.com/raushansingh7033/Grocery-Store)** | Full-stack shopping web app |
+| **[HTML-Project](https://github.com/raushansingh7033/HTML-Project)** | Responsive website using HTML, CSS, and JavaScript |
+| **[React-Project](https://github.com/raushansingh7033/React-Project)** | React components, hooks, and state management |
+| **[Agriculture-Project](https://github.com/raushansingh7033/Agriculture-project)** | A project focused on smart farming & sustainability |
 
 ---
 
-## 🏆 Projects
-- **Student Management System** – Spring Boot + MySQL CRUD application  
-- **Portfolio Website** – Responsive site using HTML, CSS, and JavaScript  
-- **Employee Tracker** – Java-based console application for managing records  
+## 💻 Coding Practice Repositories
+- 🧩 [Interview_DS_Algo](https://github.com/raushansingh7033/Interview_DS_Algo)  
+- 💡 [30-Days-of-JavaScript-Leetcode](https://github.com/raushansingh7033/30-Days-of-JavaScript-Leetcode)  
+- 📘 [core-java](https://github.com/raushansingh7033/core-java)  
+- 🚀 [JAVA-ADVANCED](https://github.com/raushansingh7033/JAVA-ADVANCED)  
+- 🔥 [Full-Stack-Web-Development](https://github.com/raushansingh7033/Full-Stack-Web-Development)  
 
 ---
 
 ## 📈 GitHub Stats
-![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushansingh7033&show_icons=true&theme=tokyonight)
 
+![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raushansingh7033&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushansingh7033&layout=compact&theme=tokyonight)
 
 ---
@@ -52,9 +67,9 @@ MySQL | PostgreSQL
 ## 📫 Connect With Me
 - 📧 **Email:** [raushan786267@gmail.com](mailto:raushan786267@gmail.com)  
 - 📱 **Phone:** +91 6206481133  
-- 🌍 **GitHub:** [github.com/raushansingh7033](https://github.com/raushansingh7033)  
-- 💼 **LinkedIn:** [linkedin.com/in/raushansingh7033](https://linkedin.com/in/raushansingh7033)
+- 💼 **LinkedIn:** [linkedin.com/in/raushansingh7033](https://linkedin.com/in/raushansingh7033)  
+- 🌍 **GitHub:** [github.com/raushansingh7033](https://github.com/raushansingh7033)
 
 ---
 
-⭐ _“Code. Learn. Build. Repeat.”_
+⭐ _"Keep learning, keep building, keep growing."_
