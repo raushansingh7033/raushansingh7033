@@ -15,45 +15,19 @@
 ## 🧠 Tech Stack
 
 **Languages:**  
-☕ Java | 💻 C++ | 🌐 JavaScript | 🐍 Python  
+☕ Java | 💻 C++ | 🌐 JavaScript  
 
 **Web Development:**  
-HTML | CSS | Bootstrap | React | Node.js  
+HTML | CSS | Bootstrap | React   
 
 **Backend & Frameworks:**  
 Spring Boot | Servlets | JSP | JDBC  
 
 **Database:**  
-MySQL | PostgreSQL | Oracle SQL  
+MySQL | Oracle SQL  
 
 **Tools & Others:**  
 Git | GitHub | VS Code | IntelliJ IDEA | Eclipse  
-
----
-
-## 🏗️ Featured Projects
-
-| Project Name | Description |
-|---------------|-------------|
-| **[FULL-STACK-DEVELOPMENT](https://github.com/raushansingh7033/FULL-STACK-DEVELOPMENT)** | Hands-on full-stack web apps using Java, Spring Boot, and React |
-| **[JAVA-WITH-DSA](https://github.com/raushansingh7033/JAVA-WITH-DSA)** | DSA problems implemented in Java |
-| **[Spring-Boot](https://github.com/raushansingh7033/spring-boot)** | REST APIs, CRUD operations, and microservice concepts |
-| **[50-Leetcode-SQL](https://github.com/raushansingh7033/50-Leetcode-SQL)** | SQL query practice for interview preparation |
-| **[MERN_WITH_AI](https://github.com/raushansingh7033/MERN_WITH_AI)** | AI-powered MERN stack project |
-| **[Java_GUI](https://github.com/raushansingh7033/Java_GUI)** | Desktop-based Java GUI apps |
-| **[Grocery-Store](https://github.com/raushansingh7033/Grocery-Store)** | Full-stack shopping web app |
-| **[HTML-Project](https://github.com/raushansingh7033/HTML-Project)** | Responsive website using HTML, CSS, and JavaScript |
-| **[React-Project](https://github.com/raushansingh7033/React-Project)** | React components, hooks, and state management |
-| **[Agriculture-Project](https://github.com/raushansingh7033/Agriculture-project)** | A project focused on smart farming & sustainability |
-
----
-
-## 💻 Coding Practice Repositories
-- 🧩 [Interview_DS_Algo](https://github.com/raushansingh7033/Interview_DS_Algo)  
-- 💡 [30-Days-of-JavaScript-Leetcode](https://github.com/raushansingh7033/30-Days-of-JavaScript-Leetcode)  
-- 📘 [core-java](https://github.com/raushansingh7033/core-java)  
-- 🚀 [JAVA-ADVANCED](https://github.com/raushansingh7033/JAVA-ADVANCED)  
-- 🔥 [Full-Stack-Web-Development](https://github.com/raushansingh7033/Full-Stack-Web-Development)  
 
 ---
 
