@@ -39,8 +39,7 @@ Git | GitHub | VS Code | IntelliJ IDEA | Eclipse
 ---
 
 ## 📫 Connect With Me
-- 📧 **Email:** [raushan786267@gmail.com](mailto:raushan786267@gmail.com)  
-- 📱 **Phone:** +91 6206481133  
+- 📧 **Email:** [raushan786267@gmail.com](mailto:raushan786267@gmail.com)   
 - 💼 **LinkedIn:** [linkedin.com/in/raushansingh7033](https://linkedin.com/in/raushansingh7033)  
 - 🌍 **GitHub:** [github.com/raushansingh7033](https://github.com/raushansingh7033)
 
