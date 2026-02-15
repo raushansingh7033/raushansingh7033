@@ -1,3 +1,11 @@
+<html>
+  <head>
+    <meta name="google-site-verification" content="KUj2dd4WOIegFO_yLHnOAChvU8IuTssNrHKIWroPFM8" />
+  </head>
+
+  <body>
+    
+ 
 # 👋 Hi there, I'm Raushan Singh
 
 🎯 **Java Full Stack Developer | DSA Enthusiast | Lifelong Learner**
@@ -46,3 +54,5 @@ Git | GitHub | VS Code | IntelliJ IDEA | Eclipse
 ---
 
 ⭐ _"Keep learning, keep building, keep growing."_
+ </body>
+</html>
